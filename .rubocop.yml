@@ -26,3 +26,6 @@ CyclomaticComplexity:
 
 PerceivedComplexity:
   Max: 11
+
+Metrics/LineLength:
+  Max: 100
